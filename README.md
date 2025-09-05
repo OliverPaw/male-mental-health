@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="assets/cover.png" alt="The Hidden Crisis in Male Mental Health" width="800">
+</p>
+
 # The Hidden Crisis in Male Mental Health
+
 
 Overview
 This project explores the **treatment gap in male mental health** across U.S. states using publicly available data.  
