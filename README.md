@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cover.png" alt="The Hidden Crisis in Male Mental Health" width="800">
+  <img src="assets/mmh_cover.png" alt="The Hidden Crisis in Male Mental Health" width="800">
 </p>
 
 # The Hidden Crisis in Male Mental Health
